@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+.box{
+  padding: 10px;
+  width: 25%;
+}
+.bg{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 10px;
+  height: 300px;
+  background-color: black;
+  position: relative;
+}
+h6{
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: yellow;
+}
+.main{
+  margin: 5px;
+  padding: 10px;
+  align-self: center;
+  color: white;
+}

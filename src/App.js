@@ -614,7 +614,7 @@ function App() {
                 <h3>{e.last_name}</h3>
                 <h3>{e.email}</h3>
                 <h3>{e.gender}</h3>
-                <h6>{i+1}</h6>
+                {/* <h6>{i+1}</h6> */}
               </div>
             </div>
           </div>
